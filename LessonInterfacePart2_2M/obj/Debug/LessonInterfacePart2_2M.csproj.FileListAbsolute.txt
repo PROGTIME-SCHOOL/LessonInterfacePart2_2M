@@ -1,0 +1,8 @@
+C:\Users\viosagmir\source\repos\LessonInterfacePart2_2M\LessonInterfacePart2_2M\bin\Debug\LessonInterfacePart2_2M.exe.config
+C:\Users\viosagmir\source\repos\LessonInterfacePart2_2M\LessonInterfacePart2_2M\bin\Debug\LessonInterfacePart2_2M.exe
+C:\Users\viosagmir\source\repos\LessonInterfacePart2_2M\LessonInterfacePart2_2M\bin\Debug\LessonInterfacePart2_2M.pdb
+C:\Users\viosagmir\source\repos\LessonInterfacePart2_2M\LessonInterfacePart2_2M\obj\Debug\LessonInterfacePart2_2M.csproj.AssemblyReference.cache
+C:\Users\viosagmir\source\repos\LessonInterfacePart2_2M\LessonInterfacePart2_2M\obj\Debug\LessonInterfacePart2_2M.csproj.SuggestedBindingRedirects.cache
+C:\Users\viosagmir\source\repos\LessonInterfacePart2_2M\LessonInterfacePart2_2M\obj\Debug\LessonInterfacePart2_2M.csproj.CoreCompileInputs.cache
+C:\Users\viosagmir\source\repos\LessonInterfacePart2_2M\LessonInterfacePart2_2M\obj\Debug\LessonInterfacePart2_2M.exe
+C:\Users\viosagmir\source\repos\LessonInterfacePart2_2M\LessonInterfacePart2_2M\obj\Debug\LessonInterfacePart2_2M.pdb
